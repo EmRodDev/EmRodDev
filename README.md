@@ -40,8 +40,8 @@
 </td>
     <td>
       <div align='right'>
-      <img src='http://github-readme-streak-stats.herokuapp.com?user=EmRodr&theme=transparent&mode=weekly&card_width=350&hide_longest_streak=true'/>
-      <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmRodr&layout=donut&theme=transparent'/>
+      <img src='http://github-readme-streak-stats.herokuapp.com?user=EmRodDev&theme=transparent&mode=weekly&card_width=350&hide_longest_streak=true'/>
+      <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EmRodDev&layout=donut&theme=transparent'/>
     </div>
     </td>
 </table>
@@ -85,7 +85,7 @@
 <br>
 <br>
 <p align='center'><b>Thank you for visiting</b></p>
-<p align='center'><img src='https://komarev.com/ghpvc/?username=EmRodr'/></p>
+<p align='center'><img src='https://komarev.com/ghpvc/?username=EmRodDev'/></p>
 
 <br>
 <br>
