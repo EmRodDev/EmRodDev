@@ -23,13 +23,13 @@
         <br>
        <b>Working on :</b> Full-stack applications, using different frameworks and languages
         <br>
-      <b>Goals for 2023-2024:</b>
+      <b>Goals for 2025-2026:</b>
         <br>
       > Build 10+ projects
         <br>
-      > Gather experience in C++, C#, Go, JavaScript, Typescript, Python and Ruby
+      > Gather experience in C++, C#, Go, Python and Rust
         <br>
-      > Know more about frameworks such as React, Vue, Ruby on Rails, Angular, Node.js, Django and ASP.NET
+      > Gather knowledge about frameworks such as React, Vue, Angular, Node.js, Django, and ASP.NET
         <br>
        <b>Fun facts:</b>
         <br>
@@ -48,7 +48,7 @@
 
 <br>
 
-### Most used languages, frameworks and tools
+### Most used languages, frameworks, and tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,7 +70,7 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-### Known languages, frameworks and tools
+### Known languages, frameworks, and tools
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
